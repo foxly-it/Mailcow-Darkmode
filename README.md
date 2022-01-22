@@ -1,4 +1,13 @@
+<div align=center>
+  
 # Mailcow Darkmode
+
+[![Commits](https://img.shields.io/github/last-commit/foxly-it/Mailcow-Darkmode?style=flat-square)](https://github.com/foxly-it/Mailcow-Darkmode/commits/main) [![GitHub release](https://img.shields.io/github/release/foxly-it/Mailcow-Darkmode?style=flat-square)](https://github.com/foxly-it/Mailcow-Darkmode/releases) [![GitHub license](https://img.shields.io/github/license/foxly-it/Mailcow-Darkmode?style=flat-square&color=lightgray)](LICENSE.md)
+---
+[![foxly.de](https://foxly.de/media/232-png-bild-png/)](https://foxly.de)
+---
+</div>
+
  Complete CSS customization for the administration interface
 
 I have customized the administration interface via CSS. Unfortunately there is no official darkmode in Mailcow yet. 
