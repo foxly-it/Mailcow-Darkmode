@@ -132,3 +132,24 @@ pre {
     background-color: #333;
     border: 1px solid #555;
 }
+.form-control {
+    color: #e2e2e2;
+    background-color: #555;
+    border: 1px solid #999;
+}
+
+
+/* Mobile */
+
+.navbar-default .navbar-nav .open .dropdown-menu>.active>a, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover {
+    color: #ccc;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #3a3a3a;
+}
+.navbar-default .navbar-toggle {
+    border-color: #9999998a;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #ccc;
+}
