@@ -137,7 +137,11 @@ pre {
     background-color: #555;
     border: 1px solid #999;
 }
-
+.input-group-addon {
+    color: #ccc;
+    background-color: #555;
+    border: 1px solid #999;
+}
 
 /* Mobile */
 
