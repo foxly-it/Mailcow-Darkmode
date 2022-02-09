@@ -157,3 +157,19 @@ pre {
 .navbar-default .navbar-toggle .icon-bar {
     background-color: #ccc;
 }
+
+/* Update 2022-02-09 */
+/* Rspamd Settings */
+a.list-group-item, button.list-group-item {
+    color: #fafafa;
+    background-color: #28b62c;
+    border-color: #23a127;
+}
+
+a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, button.list-group-item:hover {
+    margin-top: 1px;
+    border-bottom-width: 3px;
+    background-color: #28b62c;
+    border-color: #23a127;
+    color: white;
+}
