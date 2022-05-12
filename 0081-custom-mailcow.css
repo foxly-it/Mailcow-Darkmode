@@ -174,4 +174,12 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     border-color: #23a127;
     color: white;
 }
+/* Update 2022-05-12 */
+/* Tags & Relay */
+table.footable-details>tbody>tr>th:nth-child(1) {
+    color: white;
+}
+tr {
+    background-color: #3a3a3a;
+}
 }
