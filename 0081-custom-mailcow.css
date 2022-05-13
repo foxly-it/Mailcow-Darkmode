@@ -182,4 +182,17 @@ table.footable-details>tbody>tr>th:nth-child(1) {
 tr {
     background-color: #3a3a3a;
 }
+.form-control.tag-box > input.tag-input {
+    background-color: #555555;
+	margin-left: 0px;
+}
+
+.bi-plus-lg::before {
+    content: "\f64d";
+    color: white;
+}
+/* oAuth  */
+.form-control[disabled], fieldset[disabled] .form-control {
+    background-color: #5a5a5a;
+}
 }
