@@ -196,3 +196,8 @@ tr {
     background-color: #5a5a5a;
 }
 }
+/* Update 2022-05-21 */
+/* Admin GUI */
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    background-color: #333;
+}
