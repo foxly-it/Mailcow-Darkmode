@@ -195,7 +195,6 @@ tr {
 .form-control[disabled], fieldset[disabled] .form-control {
     background-color: #5a5a5a;
 }
-}
 /* Update 2022-05-21 */
 /* Admin GUI */
 .form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
@@ -207,4 +206,5 @@ span.mail-address-item {
     background-color: #333 !important;
     border: 1px solid #555 !important;
     color: #fafafa !important;
+ }
 }
