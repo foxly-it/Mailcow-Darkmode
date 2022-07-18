@@ -207,4 +207,11 @@ span.mail-address-item {
     border: 1px solid #555 !important;
     color: #fafafa !important;
  }
+/* Update 2022-07-18 */
+/* MFA */
+.pending-tfa-collapse {
+    padding: 10px;
+    background: #3a3a3a;
+    border: 1px solid #3a3a3a;
+}
 }
