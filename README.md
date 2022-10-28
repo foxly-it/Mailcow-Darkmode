@@ -1,11 +1,9 @@
 <div align=center>
   
 # Mailcow Darkmode
-### With the upcoming update 08/2022 Mailcow changes to Bootstrap 5, which means that also a darkmode with switch button is included. 
+### With the upcoming update ~12/2022 the new UI will appear. Good news for all of you who use the darkmode from me, because it will be officially included in Mailcow.
 
-### I will have a look at the implementation of the darkmode, should it not meet my expectations, I will of course continue to work on this repo.
-
-### Thanks for your support. Stay healthy!
+### Thanks to Mr. Schult
 
 [![Commits](https://img.shields.io/github/last-commit/foxly-it/Mailcow-Darkmode?style=flat-square)](https://github.com/foxly-it/Mailcow-Darkmode/commits/main) [![GitHub release](https://img.shields.io/github/release/foxly-it/Mailcow-Darkmode?style=flat-square)](https://github.com/foxly-it/Mailcow-Darkmode/releases) [![GitHub license](https://img.shields.io/github/license/foxly-it/Mailcow-Darkmode?style=flat-square&color=lightgray)](LICENSE.md) [![GitHub file size in bytes](https://img.shields.io/github/size/foxly-it/Mailcow-Darkmode/0081-custom-mailcow.css?style=flat-square)](https://github.com/foxly-it/Mailcow-Darkmode/0081-custom-mailcow.css)
 ---
